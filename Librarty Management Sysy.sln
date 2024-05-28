@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librarty Management Sysy", "Librarty Management Sysy\Librarty Management Sysy.csproj", "{1A192F81-5CCE-4B01-AC30-C5A93E83D4B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup ASNG Library Management System", "Setup ASNG Library Management System\Setup ASNG Library Management System.vdproj", "{0073802F-B253-46F1-BFD4-0D8BE0C280E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A192F81-5CCE-4B01-AC30-C5A93E83D4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A192F81-5CCE-4B01-AC30-C5A93E83D4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A192F81-5CCE-4B01-AC30-C5A93E83D4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A192F81-5CCE-4B01-AC30-C5A93E83D4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0073802F-B253-46F1-BFD4-0D8BE0C280E3}.Debug|Any CPU.ActiveCfg = Debug
+		{0073802F-B253-46F1-BFD4-0D8BE0C280E3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B31C55F4-E582-40B1-85D5-A46C752531F5}
+	EndGlobalSection
+EndGlobal
